@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- GITHUB URL: [ajchinasa.crdcomp](https://github.com/ajchinasa/Frontend-Mentor---Product-preview-card-component-solution)
 - Live Site URL: [ajchinasa.crdcomp](https://frontend-mentor-card-component-solution.vercel.app/)
 
 ## My process
